@@ -1,5 +1,5 @@
-#ifndef GITHUB_COMPITO_LIB_H
-#define GITHUB_COMPITO_LIB_H
+#ifndef GITHUB_COMPITO7_LIB_H
+#define GITHUB_COMPITO7_LIB_H
 bool ric (int ,int );
 
 
