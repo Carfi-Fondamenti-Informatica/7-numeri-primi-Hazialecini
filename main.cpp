@@ -6,7 +6,7 @@ int main(){
   int n=0;
   cin>>n;
   if(ric(2,n)){
-    cout<<"Numero primo"<<endl;
+    cout<<"numero primo"<<endl;
   }else{
     cout<<"numero non primo"<<endl;
   }
